@@ -1,0 +1,65 @@
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## Ignore configurações locais do VS
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore pacotes do NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.dll
+*.exe
+
+## Ignore cache e backups
+*.tmp
+*.bak
+*.log
+*.cache
+*.pidb
+*.dbmdl
+*.pdb
+
+## Ignore arquivos de publicação
+publish/
+*.Publish.xml
+
+## Ignore diretórios de dependências
+node_modules/
+bower_components/
+
+## Ignore arquivos de sistema do macOS e Windows
+.DS_Store
+Thumbs.db
+
+## Ignore arquivos gerados por IDEs
+*.idea/
+*.vscode/
+*.code-workspace
+
+## Ignore arquivos temporários
+~$*
+*.swp
+*.swo
+
+## Ignore Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Ignore arquivos de build do Rider e JetBrains
+.idea/
+*.DotSettings.user
