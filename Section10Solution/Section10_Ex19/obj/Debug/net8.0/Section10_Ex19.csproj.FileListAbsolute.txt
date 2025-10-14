@@ -1,0 +1,14 @@
+C:\ws-c#\Section10Solution\Section10_Ex19\bin\Debug\net8.0\Section10_Ex19.exe
+C:\ws-c#\Section10Solution\Section10_Ex19\bin\Debug\net8.0\Section10_Ex19.deps.json
+C:\ws-c#\Section10Solution\Section10_Ex19\bin\Debug\net8.0\Section10_Ex19.runtimeconfig.json
+C:\ws-c#\Section10Solution\Section10_Ex19\bin\Debug\net8.0\Section10_Ex19.dll
+C:\ws-c#\Section10Solution\Section10_Ex19\bin\Debug\net8.0\Section10_Ex19.pdb
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.AssemblyInfoInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.AssemblyInfo.cs
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.dll
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\refint\Section10_Ex19.dll
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.pdb
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\Section10_Ex19.genruntimeconfig.cache
+C:\ws-c#\Section10Solution\Section10_Ex19\obj\Debug\net8.0\ref\Section10_Ex19.dll

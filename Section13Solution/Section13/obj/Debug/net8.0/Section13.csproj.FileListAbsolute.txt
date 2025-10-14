@@ -1,0 +1,14 @@
+C:\ws-c#\Section13Solution\Section13\bin\Debug\net8.0\Section13.exe
+C:\ws-c#\Section13Solution\Section13\bin\Debug\net8.0\Section13.deps.json
+C:\ws-c#\Section13Solution\Section13\bin\Debug\net8.0\Section13.runtimeconfig.json
+C:\ws-c#\Section13Solution\Section13\bin\Debug\net8.0\Section13.dll
+C:\ws-c#\Section13Solution\Section13\bin\Debug\net8.0\Section13.pdb
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.AssemblyInfoInputs.cache
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.AssemblyInfo.cs
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.dll
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\refint\Section13.dll
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.pdb
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\Section13.genruntimeconfig.cache
+C:\ws-c#\Section13Solution\Section13\obj\Debug\net8.0\ref\Section13.dll

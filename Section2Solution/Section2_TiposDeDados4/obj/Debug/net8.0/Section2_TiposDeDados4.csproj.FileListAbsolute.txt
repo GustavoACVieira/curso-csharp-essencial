@@ -1,0 +1,14 @@
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\bin\Debug\net8.0\Section2_TiposDeDados4.exe
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\bin\Debug\net8.0\Section2_TiposDeDados4.deps.json
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\bin\Debug\net8.0\Section2_TiposDeDados4.runtimeconfig.json
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\bin\Debug\net8.0\Section2_TiposDeDados4.dll
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\bin\Debug\net8.0\Section2_TiposDeDados4.pdb
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.AssemblyInfoInputs.cache
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.AssemblyInfo.cs
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.dll
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\refint\Section2_TiposDeDados4.dll
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.pdb
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\Section2_TiposDeDados4.genruntimeconfig.cache
+C:\ws-c#\Section2Solution\Section2_TiposDeDados4\obj\Debug\net8.0\ref\Section2_TiposDeDados4.dll

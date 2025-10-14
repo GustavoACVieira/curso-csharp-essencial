@@ -1,0 +1,14 @@
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\bin\Debug\net8.0\Section5_ArraysMultidimensionais2.exe
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\bin\Debug\net8.0\Section5_ArraysMultidimensionais2.deps.json
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\bin\Debug\net8.0\Section5_ArraysMultidimensionais2.runtimeconfig.json
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\bin\Debug\net8.0\Section5_ArraysMultidimensionais2.dll
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\bin\Debug\net8.0\Section5_ArraysMultidimensionais2.pdb
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.AssemblyInfoInputs.cache
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.AssemblyInfo.cs
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.dll
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\refint\Section5_ArraysMultidimensionais2.dll
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.pdb
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\Section5_ArraysMultidimensionais2.genruntimeconfig.cache
+C:\ws-c#\Section5Solution\Section5_ArraysMultidimensionais2\obj\Debug\net8.0\ref\Section5_ArraysMultidimensionais2.dll

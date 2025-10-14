@@ -1,0 +1,14 @@
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\bin\Debug\net8.0\Section4_Enumeracao1.exe
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\bin\Debug\net8.0\Section4_Enumeracao1.deps.json
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\bin\Debug\net8.0\Section4_Enumeracao1.runtimeconfig.json
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\bin\Debug\net8.0\Section4_Enumeracao1.dll
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\bin\Debug\net8.0\Section4_Enumeracao1.pdb
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.AssemblyInfoInputs.cache
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.AssemblyInfo.cs
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.dll
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\refint\Section4_Enumeracao1.dll
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.pdb
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\Section4_Enumeracao1.genruntimeconfig.cache
+C:\ws-c#\Section4Solution\Section4_Enumeracao1\obj\Debug\net8.0\ref\Section4_Enumeracao1.dll

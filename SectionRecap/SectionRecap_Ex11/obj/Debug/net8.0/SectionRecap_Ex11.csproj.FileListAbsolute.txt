@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\bin\Debug\net8.0\SectionRecap_Ex11.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\bin\Debug\net8.0\SectionRecap_Ex11.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\bin\Debug\net8.0\SectionRecap_Ex11.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\bin\Debug\net8.0\SectionRecap_Ex11.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\bin\Debug\net8.0\SectionRecap_Ex11.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\refint\SectionRecap_Ex11.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\SectionRecap_Ex11.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex11\obj\Debug\net8.0\ref\SectionRecap_Ex11.dll

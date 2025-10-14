@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\bin\Debug\net9.0\SectionRecap_Ex33.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\bin\Debug\net9.0\SectionRecap_Ex33.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\bin\Debug\net9.0\SectionRecap_Ex33.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\bin\Debug\net9.0\SectionRecap_Ex33.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\bin\Debug\net9.0\SectionRecap_Ex33.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\refint\SectionRecap_Ex33.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\SectionRecap_Ex33.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex33\obj\Debug\net9.0\ref\SectionRecap_Ex33.dll

@@ -1,0 +1,14 @@
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.AssemblyInfoInputs.cache
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.AssemblyInfo.cs
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\bin\Debug\net8.0\Section6_TiposDeHerança.exe
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\bin\Debug\net8.0\Section6_TiposDeHerança.deps.json
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\bin\Debug\net8.0\Section6_TiposDeHerança.runtimeconfig.json
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\bin\Debug\net8.0\Section6_TiposDeHerança.dll
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\bin\Debug\net8.0\Section6_TiposDeHerança.pdb
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.dll
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\refint\Section6_TiposDeHerança.dll
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.pdb
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\Section6_TiposDeHerança.genruntimeconfig.cache
+C:\ws-c#\Section6Solution\Section6_TiposDeHerança\obj\Debug\net8.0\ref\Section6_TiposDeHerança.dll

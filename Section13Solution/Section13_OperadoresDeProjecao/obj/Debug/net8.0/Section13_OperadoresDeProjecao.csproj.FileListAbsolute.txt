@@ -1,0 +1,14 @@
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.AssemblyInfoInputs.cache
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.AssemblyInfo.cs
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\bin\Debug\net8.0\Section13_OperadoresDeProjecao.exe
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\bin\Debug\net8.0\Section13_OperadoresDeProjecao.deps.json
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\bin\Debug\net8.0\Section13_OperadoresDeProjecao.runtimeconfig.json
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\bin\Debug\net8.0\Section13_OperadoresDeProjecao.dll
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\bin\Debug\net8.0\Section13_OperadoresDeProjecao.pdb
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.dll
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\refint\Section13_OperadoresDeProjecao.dll
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.pdb
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\Section13_OperadoresDeProjecao.genruntimeconfig.cache
+C:\ws-c#\Section13Solution\Section13_OperadoresDeProjecao\obj\Debug\net8.0\ref\Section13_OperadoresDeProjecao.dll

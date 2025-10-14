@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\bin\Debug\net9.0\SectionRecap_Ex48.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\bin\Debug\net9.0\SectionRecap_Ex48.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\bin\Debug\net9.0\SectionRecap_Ex48.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\bin\Debug\net9.0\SectionRecap_Ex48.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\bin\Debug\net9.0\SectionRecap_Ex48.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\refint\SectionRecap_Ex48.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\SectionRecap_Ex48.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex48\obj\Debug\net9.0\ref\SectionRecap_Ex48.dll

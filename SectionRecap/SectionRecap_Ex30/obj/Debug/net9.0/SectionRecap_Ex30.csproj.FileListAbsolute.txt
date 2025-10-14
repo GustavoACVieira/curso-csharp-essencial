@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\bin\Debug\net9.0\SectionRecap_Ex30.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\bin\Debug\net9.0\SectionRecap_Ex30.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\bin\Debug\net9.0\SectionRecap_Ex30.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\bin\Debug\net9.0\SectionRecap_Ex30.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\bin\Debug\net9.0\SectionRecap_Ex30.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\refint\SectionRecap_Ex30.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\SectionRecap_Ex30.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex30\obj\Debug\net9.0\ref\SectionRecap_Ex30.dll

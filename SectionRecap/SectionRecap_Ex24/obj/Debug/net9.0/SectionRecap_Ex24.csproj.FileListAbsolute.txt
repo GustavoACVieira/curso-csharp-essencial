@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\bin\Debug\net9.0\SectionRecap_Ex24.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\bin\Debug\net9.0\SectionRecap_Ex24.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\bin\Debug\net9.0\SectionRecap_Ex24.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\bin\Debug\net9.0\SectionRecap_Ex24.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\bin\Debug\net9.0\SectionRecap_Ex24.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\refint\SectionRecap_Ex24.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\SectionRecap_Ex24.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex24\obj\Debug\net9.0\ref\SectionRecap_Ex24.dll

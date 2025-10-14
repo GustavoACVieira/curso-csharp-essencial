@@ -1,0 +1,14 @@
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\bin\Debug\net8.0\SectionRecap_Ex06.exe
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\bin\Debug\net8.0\SectionRecap_Ex06.deps.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\bin\Debug\net8.0\SectionRecap_Ex06.runtimeconfig.json
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\bin\Debug\net8.0\SectionRecap_Ex06.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\bin\Debug\net8.0\SectionRecap_Ex06.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.AssemblyInfoInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.AssemblyInfo.cs
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.csproj.CoreCompileInputs.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\refint\SectionRecap_Ex06.dll
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.pdb
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\SectionRecap_Ex06.genruntimeconfig.cache
+C:\ws-c#\SectionRecap\SectionRecap_Ex06\obj\Debug\net8.0\ref\SectionRecap_Ex06.dll

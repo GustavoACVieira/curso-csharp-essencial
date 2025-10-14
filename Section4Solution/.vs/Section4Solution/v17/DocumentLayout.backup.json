@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ws-c#\\Section4Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|c:\\ws-c#\\section4solution\\section4_ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|solutionrelative:section4_ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|c:\\ws-c#\\section4solution\\section4_ex01\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|solutionrelative:section4_ex01\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|c:\\ws-c#\\section4solution\\section4_ex01\\carroenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B22CCA-A922-4721-B5E1-3C65D02C585B}|Section4_Ex01\\Section4_Ex01.csproj|solutionrelative:section4_ex01\\carroenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E03577C-80FE-40CD-B866-4BE74FA6E0E1}|Section4_Enumeracao1\\Section4_Enumeracao1.csproj|c:\\ws-c#\\section4solution\\section4_enumeracao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E03577C-80FE-40CD-B866-4BE74FA6E0E1}|Section4_Enumeracao1\\Section4_Enumeracao1.csproj|solutionrelative:section4_enumeracao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E03577C-80FE-40CD-B866-4BE74FA6E0E1}|Section4_Enumeracao1\\Section4_Enumeracao1.csproj|c:\\ws-c#\\section4solution\\section4_enumeracao1\\enumeracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E03577C-80FE-40CD-B866-4BE74FA6E0E1}|Section4_Enumeracao1\\Section4_Enumeracao1.csproj|solutionrelative:section4_enumeracao1\\enumeracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\Carro.cs",
+              "RelativeDocumentMoniker": "Section4_Ex01\\Carro.cs",
+              "ToolTip": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\Carro.cs",
+              "RelativeToolTip": "Section4_Ex01\\Carro.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wEMAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:30:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "Section4_Ex01\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\Program.cs",
+              "RelativeToolTip": "Section4_Ex01\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:34:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarroEnum.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\CarroEnum.cs",
+              "RelativeDocumentMoniker": "Section4_Ex01\\CarroEnum.cs",
+              "ToolTip": "C:\\ws-c#\\Section4Solution\\Section4_Ex01\\CarroEnum.cs",
+              "RelativeToolTip": "Section4_Ex01\\CarroEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:30:44.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enumeracoes.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section4Solution\\Section4_Enumeracao1\\Enumeracoes.cs",
+              "RelativeDocumentMoniker": "Section4_Enumeracao1\\Enumeracoes.cs",
+              "ToolTip": "C:\\ws-c#\\Section4Solution\\Section4_Enumeracao1\\Enumeracoes.cs",
+              "RelativeToolTip": "Section4_Enumeracao1\\Enumeracoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:24:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section4Solution\\Section4_Enumeracao1\\Program.cs",
+              "RelativeDocumentMoniker": "Section4_Enumeracao1\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section4Solution\\Section4_Enumeracao1\\Program.cs",
+              "RelativeToolTip": "Section4_Enumeracao1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:10:34.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

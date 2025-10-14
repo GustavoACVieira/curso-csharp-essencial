@@ -1,0 +1,14 @@
+C:\ws-c#\Section4Solution\Section4_Estruturas1\bin\Debug\net8.0\Section4_Estruturas1.exe
+C:\ws-c#\Section4Solution\Section4_Estruturas1\bin\Debug\net8.0\Section4_Estruturas1.deps.json
+C:\ws-c#\Section4Solution\Section4_Estruturas1\bin\Debug\net8.0\Section4_Estruturas1.runtimeconfig.json
+C:\ws-c#\Section4Solution\Section4_Estruturas1\bin\Debug\net8.0\Section4_Estruturas1.dll
+C:\ws-c#\Section4Solution\Section4_Estruturas1\bin\Debug\net8.0\Section4_Estruturas1.pdb
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.AssemblyInfoInputs.cache
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.AssemblyInfo.cs
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.dll
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\refint\Section4_Estruturas1.dll
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.pdb
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\Section4_Estruturas1.genruntimeconfig.cache
+C:\ws-c#\Section4Solution\Section4_Estruturas1\obj\Debug\net8.0\ref\Section4_Estruturas1.dll

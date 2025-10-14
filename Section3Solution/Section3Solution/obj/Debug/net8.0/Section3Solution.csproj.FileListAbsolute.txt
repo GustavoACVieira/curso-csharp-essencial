@@ -1,0 +1,14 @@
+C:\ws-c#\Section3Solution\Section3Solution\bin\Debug\net8.0\Section3Solution.exe
+C:\ws-c#\Section3Solution\Section3Solution\bin\Debug\net8.0\Section3Solution.deps.json
+C:\ws-c#\Section3Solution\Section3Solution\bin\Debug\net8.0\Section3Solution.runtimeconfig.json
+C:\ws-c#\Section3Solution\Section3Solution\bin\Debug\net8.0\Section3Solution.dll
+C:\ws-c#\Section3Solution\Section3Solution\bin\Debug\net8.0\Section3Solution.pdb
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.AssemblyInfoInputs.cache
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.AssemblyInfo.cs
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.dll
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\refint\Section3Solution.dll
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.pdb
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\Section3Solution.genruntimeconfig.cache
+C:\ws-c#\Section3Solution\Section3Solution\obj\Debug\net8.0\ref\Section3Solution.dll

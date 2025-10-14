@@ -1,0 +1,14 @@
+C:\ws-c#\Section10Solution\Section10_Ex15\bin\Debug\net8.0\Section10_Ex15.exe
+C:\ws-c#\Section10Solution\Section10_Ex15\bin\Debug\net8.0\Section10_Ex15.deps.json
+C:\ws-c#\Section10Solution\Section10_Ex15\bin\Debug\net8.0\Section10_Ex15.runtimeconfig.json
+C:\ws-c#\Section10Solution\Section10_Ex15\bin\Debug\net8.0\Section10_Ex15.dll
+C:\ws-c#\Section10Solution\Section10_Ex15\bin\Debug\net8.0\Section10_Ex15.pdb
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.AssemblyInfoInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.AssemblyInfo.cs
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.dll
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\refint\Section10_Ex15.dll
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.pdb
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\Section10_Ex15.genruntimeconfig.cache
+C:\ws-c#\Section10Solution\Section10_Ex15\obj\Debug\net8.0\ref\Section10_Ex15.dll

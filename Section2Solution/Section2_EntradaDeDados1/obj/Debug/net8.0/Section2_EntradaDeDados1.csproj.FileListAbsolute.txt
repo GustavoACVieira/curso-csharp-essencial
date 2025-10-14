@@ -1,0 +1,14 @@
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\bin\Debug\net8.0\Section2_EntradaDeDados1.exe
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\bin\Debug\net8.0\Section2_EntradaDeDados1.deps.json
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\bin\Debug\net8.0\Section2_EntradaDeDados1.runtimeconfig.json
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\bin\Debug\net8.0\Section2_EntradaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\bin\Debug\net8.0\Section2_EntradaDeDados1.pdb
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.AssemblyInfoInputs.cache
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.AssemblyInfo.cs
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\refint\Section2_EntradaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.pdb
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\Section2_EntradaDeDados1.genruntimeconfig.cache
+C:\ws-c#\Section2Solution\Section2_EntradaDeDados1\obj\Debug\net8.0\ref\Section2_EntradaDeDados1.dll

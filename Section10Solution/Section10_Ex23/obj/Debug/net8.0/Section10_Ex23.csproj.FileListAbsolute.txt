@@ -1,0 +1,14 @@
+C:\ws-c#\Section10Solution\Section10_Ex23\bin\Debug\net8.0\Section10_Ex23.exe
+C:\ws-c#\Section10Solution\Section10_Ex23\bin\Debug\net8.0\Section10_Ex23.deps.json
+C:\ws-c#\Section10Solution\Section10_Ex23\bin\Debug\net8.0\Section10_Ex23.runtimeconfig.json
+C:\ws-c#\Section10Solution\Section10_Ex23\bin\Debug\net8.0\Section10_Ex23.dll
+C:\ws-c#\Section10Solution\Section10_Ex23\bin\Debug\net8.0\Section10_Ex23.pdb
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.AssemblyInfoInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.AssemblyInfo.cs
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.dll
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\refint\Section10_Ex23.dll
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.pdb
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\Section10_Ex23.genruntimeconfig.cache
+C:\ws-c#\Section10Solution\Section10_Ex23\obj\Debug\net8.0\ref\Section10_Ex23.dll

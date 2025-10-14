@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Id>101</Id>
+    <Name>Maria</Name>
+    <Email>maria@yahoo.com</Email>
+    <Idade>18</Idade>
+  </Aluno>
+  <Aluno>
+    <Id>102</Id>
+    <Name>Gustavo</Name>
+    <Email>gustavo@yahoo.com</Email>
+    <Idade>28</Idade>
+  </Aluno>
+  <Aluno>
+    <Id>103</Id>
+    <Name>José</Name>
+    <Email>jose@yahoo.com</Email>
+    <Idade>36</Idade>
+  </Aluno>
+</ArrayOfAluno>

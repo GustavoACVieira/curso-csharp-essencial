@@ -1,0 +1,14 @@
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\bin\Debug\net8.0\Section10_Ex08_Corrigido.exe
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\bin\Debug\net8.0\Section10_Ex08_Corrigido.deps.json
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\bin\Debug\net8.0\Section10_Ex08_Corrigido.runtimeconfig.json
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\bin\Debug\net8.0\Section10_Ex08_Corrigido.dll
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\bin\Debug\net8.0\Section10_Ex08_Corrigido.pdb
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.AssemblyInfoInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.AssemblyInfo.cs
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.dll
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\refint\Section10_Ex08_Corrigido.dll
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.pdb
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\Section10_Ex08_Corrigido.genruntimeconfig.cache
+C:\ws-c#\Section10Solution\Section10_Ex08_Corrigido\obj\Debug\net8.0\ref\Section10_Ex08_Corrigido.dll

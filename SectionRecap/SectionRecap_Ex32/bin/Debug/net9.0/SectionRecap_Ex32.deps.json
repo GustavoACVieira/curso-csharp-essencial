@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SectionRecap_Ex32/1.0.0": {
+        "runtime": {
+          "SectionRecap_Ex32.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SectionRecap_Ex32/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

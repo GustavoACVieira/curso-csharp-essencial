@@ -1,0 +1,14 @@
+C:\ws-c#\Section5Solution\Section5_ArrayList4\bin\Debug\net8.0\Section5_ArrayList4.exe
+C:\ws-c#\Section5Solution\Section5_ArrayList4\bin\Debug\net8.0\Section5_ArrayList4.deps.json
+C:\ws-c#\Section5Solution\Section5_ArrayList4\bin\Debug\net8.0\Section5_ArrayList4.runtimeconfig.json
+C:\ws-c#\Section5Solution\Section5_ArrayList4\bin\Debug\net8.0\Section5_ArrayList4.dll
+C:\ws-c#\Section5Solution\Section5_ArrayList4\bin\Debug\net8.0\Section5_ArrayList4.pdb
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.AssemblyInfoInputs.cache
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.AssemblyInfo.cs
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.dll
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\refint\Section5_ArrayList4.dll
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.pdb
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\Section5_ArrayList4.genruntimeconfig.cache
+C:\ws-c#\Section5Solution\Section5_ArrayList4\obj\Debug\net8.0\ref\Section5_ArrayList4.dll

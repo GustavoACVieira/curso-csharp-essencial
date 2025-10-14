@@ -1,0 +1,14 @@
+C:\ws-c#\Section14Solution2\Section142\bin\Debug\net9.0\Section142.exe
+C:\ws-c#\Section14Solution2\Section142\bin\Debug\net9.0\Section142.deps.json
+C:\ws-c#\Section14Solution2\Section142\bin\Debug\net9.0\Section142.runtimeconfig.json
+C:\ws-c#\Section14Solution2\Section142\bin\Debug\net9.0\Section142.dll
+C:\ws-c#\Section14Solution2\Section142\bin\Debug\net9.0\Section142.pdb
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.AssemblyInfoInputs.cache
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.AssemblyInfo.cs
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.dll
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\refint\Section142.dll
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.pdb
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\Section142.genruntimeconfig.cache
+C:\ws-c#\Section14Solution2\Section142\obj\Debug\net9.0\ref\Section142.dll

@@ -1,0 +1,14 @@
+C:\ws-c#\Section12Solution\Section12_Ex05\bin\Debug\net8.0\Section12_Ex05.exe
+C:\ws-c#\Section12Solution\Section12_Ex05\bin\Debug\net8.0\Section12_Ex05.deps.json
+C:\ws-c#\Section12Solution\Section12_Ex05\bin\Debug\net8.0\Section12_Ex05.runtimeconfig.json
+C:\ws-c#\Section12Solution\Section12_Ex05\bin\Debug\net8.0\Section12_Ex05.dll
+C:\ws-c#\Section12Solution\Section12_Ex05\bin\Debug\net8.0\Section12_Ex05.pdb
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.AssemblyInfoInputs.cache
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.AssemblyInfo.cs
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.dll
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\refint\Section12_Ex05.dll
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.pdb
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\Section12_Ex05.genruntimeconfig.cache
+C:\ws-c#\Section12Solution\Section12_Ex05\obj\Debug\net8.0\ref\Section12_Ex05.dll

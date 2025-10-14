@@ -1,0 +1,14 @@
+C:\ws-c#\Section13Solution\Section13_Paginacao\bin\Debug\net8.0\Section13_Paginacao.exe
+C:\ws-c#\Section13Solution\Section13_Paginacao\bin\Debug\net8.0\Section13_Paginacao.deps.json
+C:\ws-c#\Section13Solution\Section13_Paginacao\bin\Debug\net8.0\Section13_Paginacao.runtimeconfig.json
+C:\ws-c#\Section13Solution\Section13_Paginacao\bin\Debug\net8.0\Section13_Paginacao.dll
+C:\ws-c#\Section13Solution\Section13_Paginacao\bin\Debug\net8.0\Section13_Paginacao.pdb
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.AssemblyInfoInputs.cache
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.AssemblyInfo.cs
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.dll
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\refint\Section13_Paginacao.dll
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.pdb
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\Section13_Paginacao.genruntimeconfig.cache
+C:\ws-c#\Section13Solution\Section13_Paginacao\obj\Debug\net8.0\ref\Section13_Paginacao.dll

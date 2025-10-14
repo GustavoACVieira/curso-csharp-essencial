@@ -1,0 +1,14 @@
+C:\ws-c#\Section10Solution\Section10_Ex21\bin\Debug\net8.0\Section10_Ex21.exe
+C:\ws-c#\Section10Solution\Section10_Ex21\bin\Debug\net8.0\Section10_Ex21.deps.json
+C:\ws-c#\Section10Solution\Section10_Ex21\bin\Debug\net8.0\Section10_Ex21.runtimeconfig.json
+C:\ws-c#\Section10Solution\Section10_Ex21\bin\Debug\net8.0\Section10_Ex21.dll
+C:\ws-c#\Section10Solution\Section10_Ex21\bin\Debug\net8.0\Section10_Ex21.pdb
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.AssemblyInfoInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.AssemblyInfo.cs
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.dll
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\refint\Section10_Ex21.dll
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.pdb
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\Section10_Ex21.genruntimeconfig.cache
+C:\ws-c#\Section10Solution\Section10_Ex21\obj\Debug\net8.0\ref\Section10_Ex21.dll

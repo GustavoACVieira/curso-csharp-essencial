@@ -1,0 +1,14 @@
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\bin\Debug\net8.0\Section2_ConversaoDeTipos1.exe
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\bin\Debug\net8.0\Section2_ConversaoDeTipos1.deps.json
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\bin\Debug\net8.0\Section2_ConversaoDeTipos1.runtimeconfig.json
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\bin\Debug\net8.0\Section2_ConversaoDeTipos1.dll
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\bin\Debug\net8.0\Section2_ConversaoDeTipos1.pdb
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.AssemblyInfoInputs.cache
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.AssemblyInfo.cs
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.dll
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\refint\Section2_ConversaoDeTipos1.dll
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.pdb
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\Section2_ConversaoDeTipos1.genruntimeconfig.cache
+C:\ws-c#\Section2Solution\Section2_ConversaoDeTipos1\obj\Debug\net8.0\ref\Section2_ConversaoDeTipos1.dll

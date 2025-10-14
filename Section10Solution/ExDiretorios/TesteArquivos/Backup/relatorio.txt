@@ -1,0 +1,15 @@
+
+Nome: Apelido.txt
+Tamanho: 15 bytes
+Data de Modificação: 06/10/2025 16:21:49
+Caminho: C:\ws-c#\Section10Solution\ExDiretorios\TesteArquivos\Backup\Apelido.txt
+
+Nome: Cruzeiro.txt
+Tamanho: 23 bytes
+Data de Modificação: 06/10/2025 16:21:49
+Caminho: C:\ws-c#\Section10Solution\ExDiretorios\TesteArquivos\Backup\Cruzeiro.txt
+
+Nome: Minas.txt
+Tamanho: 14 bytes
+Data de Modificação: 06/10/2025 16:21:49
+Caminho: C:\ws-c#\Section10Solution\ExDiretorios\TesteArquivos\Backup\Minas.txt

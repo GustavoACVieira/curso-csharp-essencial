@@ -1,0 +1,14 @@
+C:\ws-c#\Section9Solution\Section9\bin\Debug\net8.0\Section9.exe
+C:\ws-c#\Section9Solution\Section9\bin\Debug\net8.0\Section9.deps.json
+C:\ws-c#\Section9Solution\Section9\bin\Debug\net8.0\Section9.runtimeconfig.json
+C:\ws-c#\Section9Solution\Section9\bin\Debug\net8.0\Section9.dll
+C:\ws-c#\Section9Solution\Section9\bin\Debug\net8.0\Section9.pdb
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.AssemblyInfoInputs.cache
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.AssemblyInfo.cs
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.dll
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\refint\Section9.dll
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.pdb
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\Section9.genruntimeconfig.cache
+C:\ws-c#\Section9Solution\Section9\obj\Debug\net8.0\ref\Section9.dll

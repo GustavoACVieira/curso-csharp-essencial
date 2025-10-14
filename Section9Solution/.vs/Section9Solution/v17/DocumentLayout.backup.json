@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ws-c#\\Section9Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E744549-C9F5-4FD1-9027-B5261BB37571}|Section9_Ex14\\Section9_Ex14.csproj|c:\\ws-c#\\section9solution\\section9_ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E744549-C9F5-4FD1-9027-B5261BB37571}|Section9_Ex14\\Section9_Ex14.csproj|solutionrelative:section9_ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0005488B-2B7A-4585-996D-AFAEFD551582}|Section9_Ex13\\Section9_Ex13.csproj|c:\\ws-c#\\section9solution\\section9_ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0005488B-2B7A-4585-996D-AFAEFD551582}|Section9_Ex13\\Section9_Ex13.csproj|solutionrelative:section9_ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162D1F4B-5E1E-410A-B1E4-87EF7748DA9C}|Section9_Ex12\\Section9_Ex12.csproj|c:\\ws-c#\\section9solution\\section9_ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162D1F4B-5E1E-410A-B1E4-87EF7748DA9C}|Section9_Ex12\\Section9_Ex12.csproj|solutionrelative:section9_ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2006312-7069-4794-A2C9-6A7CABAEDFE7}|Section9_Ex11\\Section9_Ex11.csproj|c:\\ws-c#\\section9solution\\section9_ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2006312-7069-4794-A2C9-6A7CABAEDFE7}|Section9_Ex11\\Section9_Ex11.csproj|solutionrelative:section9_ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EB3E2A-DA8D-4219-BBCD-2BF0FF1EAC4F}|Section9_Ex10\\Section9_Ex10.csproj|c:\\ws-c#\\section9solution\\section9_ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EB3E2A-DA8D-4219-BBCD-2BF0FF1EAC4F}|Section9_Ex10\\Section9_Ex10.csproj|solutionrelative:section9_ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section9Solution\\Section9_Ex14\\Program.cs",
+              "RelativeDocumentMoniker": "Section9_Ex14\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section9Solution\\Section9_Ex14\\Program.cs",
+              "RelativeToolTip": "Section9_Ex14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:52:47.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section9Solution\\Section9_Ex13\\Program.cs",
+              "RelativeDocumentMoniker": "Section9_Ex13\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section9Solution\\Section9_Ex13\\Program.cs",
+              "RelativeToolTip": "Section9_Ex13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:42:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section9Solution\\Section9_Ex12\\Program.cs",
+              "RelativeDocumentMoniker": "Section9_Ex12\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section9Solution\\Section9_Ex12\\Program.cs",
+              "RelativeToolTip": "Section9_Ex12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:27:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section9Solution\\Section9_Ex11\\Program.cs",
+              "RelativeDocumentMoniker": "Section9_Ex11\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section9Solution\\Section9_Ex11\\Program.cs",
+              "RelativeToolTip": "Section9_Ex11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:11:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ws-c#\\Section9Solution\\Section9_Ex10\\Program.cs",
+              "RelativeDocumentMoniker": "Section9_Ex10\\Program.cs",
+              "ToolTip": "C:\\ws-c#\\Section9Solution\\Section9_Ex10\\Program.cs",
+              "RelativeToolTip": "Section9_Ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:01:30.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

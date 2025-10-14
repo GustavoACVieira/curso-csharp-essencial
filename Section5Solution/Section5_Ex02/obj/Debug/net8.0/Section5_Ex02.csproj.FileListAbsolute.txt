@@ -1,0 +1,14 @@
+C:\ws-c#\Section5Solution\Section5_Ex02\bin\Debug\net8.0\Section5_Ex02.exe
+C:\ws-c#\Section5Solution\Section5_Ex02\bin\Debug\net8.0\Section5_Ex02.deps.json
+C:\ws-c#\Section5Solution\Section5_Ex02\bin\Debug\net8.0\Section5_Ex02.runtimeconfig.json
+C:\ws-c#\Section5Solution\Section5_Ex02\bin\Debug\net8.0\Section5_Ex02.dll
+C:\ws-c#\Section5Solution\Section5_Ex02\bin\Debug\net8.0\Section5_Ex02.pdb
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.AssemblyInfoInputs.cache
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.AssemblyInfo.cs
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.dll
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\refint\Section5_Ex02.dll
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.pdb
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\Section5_Ex02.genruntimeconfig.cache
+C:\ws-c#\Section5Solution\Section5_Ex02\obj\Debug\net8.0\ref\Section5_Ex02.dll

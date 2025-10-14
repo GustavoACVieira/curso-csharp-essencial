@@ -1,0 +1,14 @@
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\bin\Debug\net8.0\Section2_SaidaDeDados1.exe
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\bin\Debug\net8.0\Section2_SaidaDeDados1.deps.json
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\bin\Debug\net8.0\Section2_SaidaDeDados1.runtimeconfig.json
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\bin\Debug\net8.0\Section2_SaidaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\bin\Debug\net8.0\Section2_SaidaDeDados1.pdb
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.AssemblyInfoInputs.cache
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.AssemblyInfo.cs
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\refint\Section2_SaidaDeDados1.dll
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.pdb
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\Section2_SaidaDeDados1.genruntimeconfig.cache
+C:\ws-c#\Section2Solution\Section2_SaidaDeDados1\obj\Debug\net8.0\ref\Section2_SaidaDeDados1.dll

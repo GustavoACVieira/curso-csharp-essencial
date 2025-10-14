@@ -1,0 +1,14 @@
+C:\ws-c#\Section4Solution\Section4_Ex01\bin\Debug\net8.0\Section4_Ex01.exe
+C:\ws-c#\Section4Solution\Section4_Ex01\bin\Debug\net8.0\Section4_Ex01.deps.json
+C:\ws-c#\Section4Solution\Section4_Ex01\bin\Debug\net8.0\Section4_Ex01.runtimeconfig.json
+C:\ws-c#\Section4Solution\Section4_Ex01\bin\Debug\net8.0\Section4_Ex01.dll
+C:\ws-c#\Section4Solution\Section4_Ex01\bin\Debug\net8.0\Section4_Ex01.pdb
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.AssemblyInfoInputs.cache
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.AssemblyInfo.cs
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.dll
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\refint\Section4_Ex01.dll
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.pdb
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\Section4_Ex01.genruntimeconfig.cache
+C:\ws-c#\Section4Solution\Section4_Ex01\obj\Debug\net8.0\ref\Section4_Ex01.dll

@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Section5_Ex02 {
+    public abstract class ArquivoBase {
+        public virtual void Nome() {
+            Console.WriteLine("Definir nome");
+        }
+    }
+}

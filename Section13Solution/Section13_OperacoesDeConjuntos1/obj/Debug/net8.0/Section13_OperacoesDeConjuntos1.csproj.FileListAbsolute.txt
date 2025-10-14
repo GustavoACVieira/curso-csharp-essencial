@@ -1,0 +1,14 @@
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\bin\Debug\net8.0\Section13_OperacoesDeConjuntos1.exe
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\bin\Debug\net8.0\Section13_OperacoesDeConjuntos1.deps.json
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\bin\Debug\net8.0\Section13_OperacoesDeConjuntos1.runtimeconfig.json
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\bin\Debug\net8.0\Section13_OperacoesDeConjuntos1.dll
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\bin\Debug\net8.0\Section13_OperacoesDeConjuntos1.pdb
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.AssemblyInfoInputs.cache
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.AssemblyInfo.cs
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.dll
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\refint\Section13_OperacoesDeConjuntos1.dll
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.pdb
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\Section13_OperacoesDeConjuntos1.genruntimeconfig.cache
+C:\ws-c#\Section13Solution\Section13_OperacoesDeConjuntos1\obj\Debug\net8.0\ref\Section13_OperacoesDeConjuntos1.dll

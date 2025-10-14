@@ -1,0 +1,14 @@
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\bin\Debug\net8.0\Section9_ConsultasLINQ1.exe
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\bin\Debug\net8.0\Section9_ConsultasLINQ1.deps.json
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\bin\Debug\net8.0\Section9_ConsultasLINQ1.runtimeconfig.json
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\bin\Debug\net8.0\Section9_ConsultasLINQ1.dll
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\bin\Debug\net8.0\Section9_ConsultasLINQ1.pdb
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.AssemblyInfoInputs.cache
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.AssemblyInfo.cs
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.csproj.CoreCompileInputs.cache
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.dll
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\refint\Section9_ConsultasLINQ1.dll
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.pdb
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\Section9_ConsultasLINQ1.genruntimeconfig.cache
+C:\ws-c#\Section9Solution\Section9_ConsultasLINQ1\obj\Debug\net8.0\ref\Section9_ConsultasLINQ1.dll
